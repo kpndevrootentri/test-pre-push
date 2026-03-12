@@ -1,0 +1,23 @@
+{
+  "name": "test-prepush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpndevrootentri/test-pre-push.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpndevrootentri/test-pre-push/issues"
+  },
+  "homepage": "https://github.com/kpndevrootentri/test-pre-push#readme",
+  "dependencies": {
+    "entri-pre-push": "file:../entri-pre-push"
+  }
+}
