@@ -17,7 +17,7 @@
     "url": "https://github.com/kpndevrootentri/test-pre-push/issues"
   },
   "homepage": "https://github.com/kpndevrootentri/test-pre-push#readme",
-  "dependencies": {
-    "entri-pre-push": "file:../entri-pre-push"
+  "devDependencies": {
+    "entri-pre-push": "^1.0.0"
   }
 }
